@@ -1,7 +1,7 @@
 # Jerome Brent A. Tegrado - Portfolio
 
 ## Description
-This is my personal portfolio showcasing my skills, projects, and contact information. It includes a brief introduction about myself, the programming languages I have learned, my short-term and long-term goals, and a contact form. This portfolio is a reflection of my journey as a 3rd-year BSIS student at the Technological University of the Philippines – Manila.
+This is my personal portfolio showcasing my skills, projects, and contact information. It provides an introduction to who I am as a 3rd-year BSIS student at TUP-Manila, outlining my background, hobbies, and programming knowledge. The portfolio features key projects such as a Java Admin Record Program, Huffman Coding, and an ATM Simulation Program, with detailed descriptions and GitHub links. My skills in languages like C, C++, Java, and JavaScript are highlighted, along with tools like NetBeans and Visual Studio Code. You can also contact me through a simple form or connect via my GitHub and LinkedIn profiles. This portfolio represents my growth and journey as an aspiring IT professional.
 
 ## How to Clone and Run the Portfolio
 
